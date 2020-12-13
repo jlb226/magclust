@@ -4,6 +4,7 @@ references/
 # R files
 .Rproj.user/
 *.Rproj
+.Rprofile
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
