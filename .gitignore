@@ -1,3 +1,11 @@
+# References
+references/
+
+# R files
+.Rproj.user/
+*.Rproj
+.Rprofile
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -128,5 +136,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# extras
 notes.txt
+
+.Rproj.user
