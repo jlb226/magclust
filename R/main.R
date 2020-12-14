@@ -20,4 +20,3 @@
 # T_clus:   "Superparamagnetic temperature at which clusters form | T_clus = ((T_fs + T_ps)/2)"
 
 
-
