@@ -1,6 +1,6 @@
 ###  main.R  ###
 
-# s:        "Sites (clusters)"
+
 # a:    	"Local Length Scale"
 # beta:		"Inverse of temperature"
 # chi:  	"Susceptibility | chi = (N/T)*((m^2) - (m)^2)"
@@ -13,10 +13,11 @@
 # mu:   	"Spin Value"
 # N:    	"Number of points"
 # P:		"Probability of bond between neighboring spins"
-# q:    	"Number of states (or classes or clusters)"
+# q:    	"Number of Potts states (i.e classes or clusters)"
+# s:        "Sites (clusters)"
 # T:		"Temperature"
+# T_clus:   "Superparamagnetic temperature at which clusters form | T_clus = ((T_fs + T_ps)/2)"
 # T_fs:     "Superparamagnetic state caused by pseudotransition from ferromagnetic state (initial peak)"
 # T_ps:     "Paramagnetic state caused by pseudotransition from superparamagnetic state (final valley) | T_ps = (exp{-(1/2)}/4)*ln(1 + sqrt(q))"
-# T_clus:   "Superparamagnetic temperature at which clusters form | T_clus = ((T_fs + T_ps)/2)"
 
 
